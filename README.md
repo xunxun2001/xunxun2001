@@ -2,12 +2,13 @@
 - 📺 I’m currently watching the "BanG Dream! It's MyGO!!!!!"
 - 🌱 I’m currently learning IELTS Speaking
 - 🎵 I’m currently enjoying "春日影"
+- 🎮 I'm currently playing the “BanG Dream! Girls Band Party!”
 
 
 
 
 <a href="https://github.com/xunxun2001" target="_blank">   
-  <img height=300*0.9 wight=500*0.9 src="https://github-readme-stats.vercel.app/api?username=xunxun2001&show_icons=true&count_private=true&hide=stars&show=prs_merged_percentage" alt="个人概况">
+  <img height=300*0.9 wight=500*0.9 src="https://github-readme-stats.vercel.app/api?username=xunxun2001&show_icons=true&count_private=true" alt="个人概况">
 </a>
 
 
